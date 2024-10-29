@@ -92,9 +92,64 @@ A comprehensive table consisting of:
 |------------------|---------------|---------|----------|---------|-------|--------|
 | (Example Entry) | (Owner Name)  | (Status) | (Priority) | (Amount) | (Hours) | (Profit) |
 
-!(Project Portfolio(FY_PM))[https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Project%20Portfolio(FY_PM).png]
+![Project Portfolio(FY_PM)](https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Project%20Portfolio(FY_PM).png)
 
+## Project Measures
 
+The Project Measures slide replicates the Project Portfolio but includes filters for:
+
+<ul>
+  <li>Year</li>
+  <li>Category</li>
+  <li>Status</li>
+  <li>Priority</li>
+</ul>
+
+This allows for a detailed analysis of project performance based on specific criteria.
+
+![Project Measures (FY_PM) video](https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Project%20Measures%20(FY_PM)%20video.gif)
+
+## Risk Measure Slide
+
+The Risk Measure Slide focuses on identifying and analyzing project risks, including:
+
+### Key Metrics:
+
+<ul>
+  <li>Total Risk</li>
+  <li>Risk Exposure Cost</li>
+</ul>
+
+### Visualizations:
+
+<ul>
+  <li>Risk Category Measure (charts)</li>
+  <li>Risk Measure by Teams (charts)</li>
+  <li>Risk Measure Over Year (charts)</li>
+</ul>
+
+### Data Table:
+
+A detailed table that includes:
+
+| Risk              | Project         | Team            | Due Date | Capital | Cost Exposure | Probability |
+|-------------------|------------------|------------------|----------|---------|---------------|-------------|
+| (Example Entry)  | (Project Name) | (Team Name) | (Due Date) | (Amount) | (Amount)      | (Probability) |
+
+![Risk Measure Portfolio(FY_PM)](https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Risk%20Measure%20Portfolio(FY_PM).png)
+
+## Project Capital Analysis Portfolio
+
+This section analyzes financial aspects related to projects, providing insights into:
+
+<ul>
+  <li>Revenue generated over the years.</li>
+  <li>Capital invested over the years.</li>
+  <li>Top 10 clients and top 10 projects.</li>
+  <li>Filters for Year and Category (of project type) to allow users to focus on specific segments.</li>
+</ul>
+
+![Project Capital(FY_PM) Video](https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Project%20Capital(FY_PM)%20Video.gif)
 
 
 

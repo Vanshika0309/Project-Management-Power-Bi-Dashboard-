@@ -92,6 +92,8 @@ A comprehensive table consisting of:
 |------------------|---------------|---------|----------|---------|-------|--------|
 | (Example Entry) | (Owner Name)  | (Status) | (Priority) | (Amount) | (Hours) | (Profit) |
 
+!(Project Portfolio(FY_PM))[https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Project%20Portfolio(FY_PM).png]
+
 
 
 

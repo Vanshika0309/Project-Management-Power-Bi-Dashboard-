@@ -92,7 +92,7 @@ A comprehensive table consisting of:
 |------------------|---------------|---------|----------|---------|-------|--------|
 | (Example Entry) | (Owner Name)  | (Status) | (Priority) | (Amount) | (Hours) | (Profit) |
 
-![Project Portfolio(FY_PM)](https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Project%20Portfolio(FY_PM).png)
+![Project Portfolio(FY_PM)1](https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Project%20Portfolio(FY_PM)1.png)
 
 ## Project Measures
 
@@ -136,7 +136,7 @@ A detailed table that includes:
 |-------------------|------------------|------------------|----------|---------|---------------|-------------|
 | (Example Entry)  | (Project Name) | (Team Name) | (Due Date) | (Amount) | (Amount)      | (Probability) |
 
-![Risk Measure Portfolio(FY_PM)](https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Risk%20Measure%20Portfolio(FY_PM).png)
+![Risk Measure Portfolio(FY_PM)1](https://github.com/Vanshika0309/Project-Management-Dashboard/blob/main/Risk%20Measure%20Portfolio(FY_PM)1.png)
 
 ## Project Capital Analysis Portfolio
 
